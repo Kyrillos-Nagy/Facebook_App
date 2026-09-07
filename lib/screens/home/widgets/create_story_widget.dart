@@ -12,7 +12,7 @@ class CreateStoryWidget extends StatelessWidget {
       clipBehavior: Clip.antiAlias,
       decoration: BoxDecoration(
         color: AppColors.white,
-        borderRadius: BorderRadius.circular(16),
+        borderRadius: BorderRadius.circular(17),
       ),
       child: Stack(
         children: [
